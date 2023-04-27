@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "+uhcN7JsEKqP1WxkRMDj7jMeUU2RFsCCGMPAZ9Kox98=",
-  "Source": "src",
-  "BasePath": "_content/src",
+  "Hash": "zmgVO8UzIKFdLZnAK69VuKdeu0C63rz5o4ViLffM360=",
+  "Source": "super-hero-api",
+  "BasePath": "_content/super-hero-api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

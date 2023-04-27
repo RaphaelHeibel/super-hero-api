@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KKA19MmWk0ZKRjpy+DOn6q5+PkDRhuITjHaOj3nSx0of+35G2UhlN7qwMhICTQRzYFapEAWrUtmS27UR7iitWQ==",
+  "dgSpecHash": "YUAZYS91bQUge5Sey17NioXmZUlnSlBEx/jsdItoRQMHklZY/gntZcFMg+yKHipSbkZnk2Qrg5K548bh2fwwbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rapha\\OneDrive\\Documentos\\projeto-teste\\src\\src.csproj",
+  "projectFilePath": "C:\\Users\\rapha\\OneDrive\\Documentos\\super-hero-api\\src\\super-hero-api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rapha\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\rapha\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
